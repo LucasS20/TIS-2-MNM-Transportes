@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #00b4d8;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 650px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.container input, form {
+    padding: 0.8em;
+    width: 100%;
+    margin-top: 16px;
+    font-family: serif;
+    font-size:16px;
+    resize: none;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,7 @@
+.formFuncionarios {
+    display: flex;
+    flex-direction: column;
+    max-width: 650px;
+    text-align: center;
+    margin: 20px auto;
+}
